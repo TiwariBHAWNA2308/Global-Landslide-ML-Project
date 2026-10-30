@@ -290,4 +290,10 @@ This project uses the Global Landslide Catalog dataset, which is publicly availa
 
 ## 🙋 Author
 
-Feel free to fork, improve, or raise issues!
+**Bhawna Tiwari**
+
+- Data Analyst
+- Mechanical Engineer
+- Power BI | SQL | Python | Excel
+
+GitHub: [TiwariBHAWNA2308](https://github.com/TiwariBHAWNA2308)
